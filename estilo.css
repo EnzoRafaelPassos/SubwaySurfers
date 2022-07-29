@@ -57,12 +57,14 @@ section img {
 }
 
 .wave {
+    width: 100%;
     position: absolute;
     bottom: 0;
     left: 0;
 }
 
 .waves {
+    width: 100%;
     position: absolute;
 }
 
@@ -101,7 +103,7 @@ section img {
     color: rgb(255, 255, 255);
     width: 100%;
     font-family: 'Concert One', cursive;
-    
+
 }
 
 .corpo-fim img {
@@ -110,9 +112,11 @@ section img {
     height: 500px;
     margin: 15px;
 }
+
 .corpo-fim h1 a {
     margin: 10px;
 }
+
 .corpo-fim>a {
     margin-left: 32%;
 }
@@ -128,4 +132,3 @@ section img {
     padding-top: 170px;
     text-align: center;
 }
-
