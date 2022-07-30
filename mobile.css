@@ -31,16 +31,17 @@ section img {
 .corpo-fim img {
     width: 85px;
     height: 200px;
+    margin-right: 60%;
 
 }
 
 .corpo-fim {
     padding: 10px;
     height: calc(100vh - 50px);
+    text-align: center;
 }
 
 .corpo-fim h1 {
-    text-align: left;
     margin-top: 90px;
 }
 
